@@ -5,15 +5,15 @@
 ### Install
 
 #### step 1：Install document this
-Document This：
+可參考此網頁來安裝Document This：
 https://marketplace.visualstudio.com/items?itemName=joelday.docthis
 
-VS Code Extension：
+可參考此網頁來安裝VS Code Extension：
 https://code.visualstudio.com/docs/editor/extension-gallery
 
 #### step 2：cmd輸入：
-    `npm init
-    `npm i jsdoc --save-dev
+    npm init
+    npm i jsdoc --save-dev
 
 #### step 3：修改package.json
  	"scripts": {
