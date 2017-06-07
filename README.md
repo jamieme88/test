@@ -12,8 +12,8 @@ VS Code Extension：
 https://code.visualstudio.com/docs/editor/extension-gallery
 
 #### step 2：cmd輸入：
-    npm init
-    npm i jsdoc --save-dev
+    `npm init
+    `npm i jsdoc --save-dev
 
 #### step 3：修改package.json
  	"scripts": {
